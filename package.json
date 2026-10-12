@@ -1,0 +1,20 @@
+{
+  "name": "babel-plugin-tailwind-prefix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "babel-plugin-tailwind-prefix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seuchoi0531/babel-plugin-tailwind-prefix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seuchoi0531/babel-plugin-tailwind-prefix/issues"
+  },
+  "homepage": "https://github.com/seuchoi0531/babel-plugin-tailwind-prefix#readme"
+}
